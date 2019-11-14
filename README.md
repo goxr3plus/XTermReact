@@ -1,2 +1,0 @@
-# XTermReact
-Created with CodeSandbox
