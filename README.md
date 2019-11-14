@@ -1,10 +1,10 @@
-# XTermReact [Online Demo](https://codesandbox.io/s/github/goxr3plus/XTermReact)
+# XTermReact [Online Demo](https://codesandbox.io/s/xtermreact-demo-c1h3u)
 I have spend several days searching on how to use XTerm js with React . You don't have to do the same . Below is a fully functional
 React app with XTerm.js so you can clone and use :)
 
 ## Created with CodeSandbox
 
-Form and play with the code [Here](https://codesandbox.io/s/github/goxr3plus/XTermReact)
+Form and play with the code [Here](https://codesandbox.io/s/xtermreact-demo-c1h3u)
 
 ## Features
 - **Done ✔️**
