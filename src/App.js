@@ -5,6 +5,7 @@ import "./xterm.css";
 import "./App.css";
 import { Resizable } from "re-resizable";
 import ResizeObserver from "react-resize-observer";
+import c from "ansi-colors";
 
 let term;
 const fitAddon = new FitAddon();
@@ -22,7 +23,8 @@ export default class App extends React.Component {
     term = new Terminal({
       convertEol: true,
       fontFamily: `'Fira Mono', monospace`,
-      fontSize: 15
+      fontSize: 15,
+      fontWeight: 900
       // rendererType: "dom" // default is canvas
     });
 
@@ -39,7 +41,7 @@ export default class App extends React.Component {
     term.open(document.getElementById("xterm"));
 
     //Write text inside the terminal
-    term.writeln("\x1B[1;3;31mxterm.js\x1B[0m 0.40-beta testing....");
+    term.write(c.magenta("I am ") + c.blue("Blue") + c.red(" and i like it"));
 
     // Make the terminal's size and geometry fit the size of #terminal-container
     fitAddon.fit();
