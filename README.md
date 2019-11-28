@@ -4,7 +4,7 @@ React app with XTerm.js so you can clone and use :)
 
 ## Created with CodeSandbox
 
-Form and play with the code [Here](https://codesandbox.io/s/xtermreact-demo-c1h3u)
+Fork and play with the code [Here](https://codesandbox.io/s/xtermreact-demo-c1h3u)
 
 ## Features
 - **Done ✔️**
