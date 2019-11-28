@@ -16,7 +16,8 @@ Fork and play with the code [Here](https://codesandbox.io/s/xtermreact-demo-c1h3
 
 # Screenshot
 
-![chrome_2019-11-14_14-24-05](https://user-images.githubusercontent.com/20374208/68857103-c5de1000-06ea-11ea-888f-b5c1c72a823a.png)
+![chrome_2019-11-28_11-33-35](https://user-images.githubusercontent.com/20374208/69794480-ffc31200-11d2-11ea-92f6-879fd396b17e.png)
+
 
 
 
